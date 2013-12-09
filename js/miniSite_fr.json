@@ -1,0 +1,232 @@
+{
+   "header":{
+      "title":"L'Odyss\u00e9e de l'espace",
+      "couleur":"#42281b",
+      "logo":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/6ec392f1cf46b97d3c96678a2a3b5ee64d984779.png",
+      "version":1382627345,
+      "menu":[
+         {
+            "title":"VOYAGES",
+            "position":1
+         },
+         {
+            "title":"L'ODYSSEE DE L'ESPACE\u00a0",
+            "position":2
+         },
+         {
+            "title":"MULTIMEDIA\u00a0",
+            "position":3
+         },
+         {
+            "title":"SHOP",
+            "position":5
+         },
+         {
+            "title":"CARNET DE VOYAGE\u00a0",
+            "position":4
+         },
+         {
+            "title":"NEWS\u00a0",
+            "position":6
+         }
+      ]
+   },
+   "actu":{
+      "title":"LES ACTUALITES DU MAGASIN",
+      "stitle":"PONT NEUF",
+      "fond":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/053947658337d6ffc36f466e51eb815b962cfa6e_1280x640.jpeg",
+      "fondMobile":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/053947658337d6ffc36f466e51eb815b962cfa6e_640x320.jpeg",
+      "version":1382106067,
+      "news":[
+         {
+            "title":"Premi\u00e8re news .",
+            "date":1381299554,
+            "description":"<span>Le\u00a0<\/span><strong>Lorem Ipsum<\/strong><span>\u00a0est simplement du faux texte employ\u00e9 dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les ann\u00e9es 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour r\u00e9aliser un livre sp\u00e9cimen de polices de texte. Il n'a pas fait que survivre cinq si\u00e8cles, mais s'est aussi adapt\u00e9 \u00e0 la bureautique informatique, sans que son contenu n'en soit modifi\u00e9. Il a \u00e9t\u00e9 popularis\u00e9 dans les ann\u00e9es 1960 gr\u00e2ce \u00e0 la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus r\u00e9cemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.<\/span><br\/>",
+            "version":1381299554
+         },
+         {
+            "title":"Espace Culturel Louis Vuitton",
+            "date":1382712674,
+            "description":"<span>The Espace Culturel Louis Vuitton Paris explores the inner self and the outer world with the new exhibit \"Romanian Scenes,\" now open to the public. More details can be found at<\/span><a href=\"http:\/\/www.facebook.com\/l.php?u=http%3A%2F%2Fwww.louisvuitton-espaceculturel.com%2F&amp;h=fAQGeLRPA&amp;enc=AZOhcQD_VB64fldxvwBax2HoMU_TZ3iXAR0U62FH-zuBXZnGN65c4HOb0B_fBAsoNzubBJEoEVky23hGlHOOK-1DJO9XEXHXERFIgoO_7xWnaq5whuNln4aM-z4U3HmS5i29PwpDvHqvFRi5XOVuU8ww&amp;s=1\" rel=\"nofollow nofollow\" target=\"_blank\">http:\/\/www.louisvuitton-espaceculturel.com\/<\/a><span>.<\/span><br\/>",
+            "version":1382712674
+         },
+         {
+            "title":"M-commerce",
+            "date":1382710984,
+            "description":"<span style=\"color: #333333; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">O\u00f9 que vous soyez, r\u00e9alisez d\u00e9sormais vos achats depuis votre t\u00e9l\u00e9phone mobile et votre tablette. Rendez-vous sur<\/span><a style=\"color: #3b5998; cursor: pointer; text-decoration: none; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;\" href=\"http:\/\/www.louisvuitton.fr\/\" rel=\"nofollow nofollow\" target=\"_blank\">http:\/\/www.louisvuitton.fr\/<\/a><br\/>",
+            "version":1382710984
+         },
+         {
+            "title":"titre",
+            "date":1382712447,
+            "description":"Texte de la nouvelle en Fran\u00e7ais<br\/>",
+            "version":1382712447
+         }
+      ]
+   },
+   "home":{
+      "title":"LOUIS VUITTON PRESENTE",
+      "stitle":"L'ODYSSEE DE L'ESPACE",
+      "text":"Un voyage extraordinaire au coeur de l'esprit Louis Vuitton. Vivez une exp\u00e9rience immersive unique, dans le cadre exceptionnel du magasin Pont Neuf. D\u00e9couvrez des produits d'exception ainsi qu'une s\u00e9lection des objets qui font le patrimoine de la marque.<br\/>",
+      "bloc_revivez":"Venez vivre une exp\u00e9rience unique, au magasin \"Pont Neuf\". Pour pr\u00e9parer votre voyage, nous vous invitons \u00e0 prendre rendez-vous avec nos ambassadeurs.\u00a0<br\/>\r\nT\u00e9l\u00e9phone : 01 42 53 64 75<br\/>",
+      "fond":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/21586bcdc57b7b7d4d6d2f23118d442ebb492942_1280x640.jpeg",
+      "fondMobile":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/21586bcdc57b7b7d4d6d2f23118d442ebb492942_640x320.jpeg",
+      "version":1382627921
+   },
+   
+   "product":{
+      "title":"DECOUVREZ\u00a0",
+      "stitle":"LES VOYAGES EXTRAORDINAIRES",
+      "text":"Contrairement \u00e0 une opinion r\u00e9pandue, le Lorem Ipsum n'est pas simplement du texte al\u00e9atoire. Il trouve ses racines dans une oeuvre de la litt\u00e9rature latine classique datant de 45 av. J.-C.<br\/>",
+      "txt_btn":"L'ODYSSEE DE L'ESPACE",
+      "couleur":"#632767",
+      "fond":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/06d33556e015370a2035fb154db5f573607a89dc_1280x640.jpeg",
+      "fondMobile":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/06d33556e015370a2035fb154db5f573607a89dc_640x320.jpeg",
+      "img_btn":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/2757c3a39796b8613d925cce8107038ba7210a03.png",
+      "version":1382105837
+   },
+   "mentions":{
+      "title":"MENTIONS LEGALES\u00a0",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vitae arcu quam. Curabitur imperdiet erat lorem. Nunc rhoncus ante turpis, id tincidunt ligula cursus a. In auctor, libero id rutrum vulputate, velit sem venenatis odio, sollicitudin dictum felis nulla luctus mi. In auctor, neque fringilla malesuada mattis, massa tortor aliquet mi, sed egestas ligula elit at nibh. Praesent at eleifend arcu, non rhoncus magna. Suspendisse potenti. Praesent dapibus pulvinar libero, quis iaculis quam pharetra et. Nunc tristique, elit at blandit mollis, odio turpis ullamcorper velit, in convallis turpis risus vel ligula.<br\/>\r\nMorbi tristique enim ut ante gravida faucibus at ac enim.<br\/>\r\nNullam eu orci urna. Praesent nec vehicula dolor, eu aliquet quam. Nullam vehicula tellus ut auctor molestie. Vivamus consectetur enim neque, pellentesque posuere dui dictum in. Donec suscipit commodo porttitor.<br\/>\r\nUt dapibus leo eu leo lobortis egestas.<br\/>",
+      "fond":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/2ef264fd85aaa346c2c92f7117e87908666562e2_1280x640.jpeg",
+      "fondMobile":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/2ef264fd85aaa346c2c92f7117e87908666562e2_640x320.jpeg",
+      "version":1382105868
+   },
+
+   "voyage":{
+      "title":"Carnet de voyage de [%p%]",
+      "carnet_vide":"<span>Le\u00a0<\/span><strong>Lorem Ipsum<\/strong><span>\u00a0est simplement du faux texte employ\u00e9 dans la composition et la mise en page avant impression. <br \/><\/span><br\/>",
+      "fond":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/01\/b2223cae09ac4f3adb8f81494f4cdfcf629652fd_1280x640.png",
+      "fondMobile":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/01\/b2223cae09ac4f3adb8f81494f4cdfcf629652fd_640x320.png",
+      "version":1382631728
+   },
+
+   "gridHaze":[
+      {
+         "title":"PRODUITS",
+         "color":"#632767"
+      },
+      {
+         "title":"OBJETS DU PATRIMOINE",
+         "color":"#632767"
+      },
+      {
+         "title":"VIDEOS",
+         "color":"#632767"
+      }
+   ],
+   "discover":[
+      {
+         "url":"http:\/\/ladiplomatiedinfluence.files.wordpress.com\/2012\/04\/photo-panda.jpg",
+         "cat":"placeholder"
+      }
+   ],
+   "multimedia":[
+      {
+         "id":1,
+         "version":1382976776,
+         "title":"<p>Bienvenue dans la Zone 1<\/p>",
+         "stitle":"<p>Nom de la zone 1<\/p>",
+         "txtBtn":"<p>Entrer dans la zone<\/p>",
+         "content":"<p>Texte descriptif de la zone 1. Une zone o\u00f9 l'utilisateur peut d\u00e9couvrir une s\u00e9lection exclusive de produits Louis Vuitton, et les d\u00e9couvrir sur grand \u00e9cran. Une immersion dans l'univers Louis Vuitton, \u00e0 la d\u00e9couverte d'un voyage extraordinaire.<\/p>",
+         "couleur":"#632767",
+         "medias":[
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/57b4e3e4966b4ed98506822eb5c367494d5a5e80_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/c78bf2f6507625892c1651934ea5c616010de183_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/appli\/zone_1\/videos\/Louis Vuitton.mp4",
+               "cat":"vid"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/appli\/zone_1\/videos\/mobile_vimeo25_720_5mbps.mp4",
+               "cat":"vid"
+            }
+         ]
+      },
+      {
+         "id":2,
+         "version":1382972204,
+         "title":"<p>Bienvenue dans la Zone 2\u00a0<\/p>",
+         "stitle":"<p>Nom de la zone 2<\/p>",
+         "txtBtn":"<p>ENTRER<\/p>",
+         "content":"<p><span style=\"color: #000000;\">Descriptif de la zone 2<\/span><\/p>",
+         "couleur":"#632767",
+         "medias":[
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/f77cc725fbb2a5d769c9457af8728eb7358d8ea4_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/8c2c906b6e1b1f7252da12ea7a5d6279f6f9907a_450x450.png",
+                 "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/c4dc5dab63ed2da950fc52ea23d3ed0d91ebf2f7_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/appli\/zone_2\/videos\/mobile_vimeo25_720_5mbps.mp4",
+               "cat":"vid"
+            }
+         ],
+         "poeme":[
+            "HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/f77cc725fbb2a5d769c9457af8728eb7358d8ea4_450x450.jpeg",
+            "HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/f77cc725fbb2a5d769c9457af8728eb7358d8ea4_450x450.jpeg",
+            "HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/f77cc725fbb2a5d769c9457af8728eb7358d8ea4_450x450.jpeg",
+            "HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/f77cc725fbb2a5d769c9457af8728eb7358d8ea4_450x450.jpeg"
+         ]
+      },
+      {
+         "id":3,
+         "version":1382535470,
+         "title":"<p>Bienvenue dans la Zone 3<\/p>",
+         "stitle":"<p>Nom de la zone 3<\/p>",
+         "txtBtn":"<p>ENTRER<\/p>",
+         "content":"<p>Descriptif de la zone 3<\/p>",
+         "couleur":"#632767",
+         "medias":[
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/25d1e9ee8617b083a1228431b5f10c8b07278435_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/a4688803866a8127d2a9cb8138330f961448c7ad_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/03\/a937446b4bc7ffaba284308a99665cf2296c1063_450x450.jpeg",
+               "popin":"http://i00.i.aliimg.com/wsphoto/v0/1059146074/1pcs-30CM-large-simulation-panda-holding-bamboo-panda-toy-wholesale-free-shipping.jpg",
+               "cat":"img"
+            },
+            {
+               "url":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/appli\/zone_3\/videos\/earth.mp4",
+               "cat":"vid"
+            }
+         ]
+      }
+   ],
+   "shop":{
+      "title":"Page pr\u00e9parer",
+      "mail":"a.oustad@novediagroup.com",
+      "adresse":"94\/96 rue de Paris 92100 Boulogne",
+      "tel":"01 41 22 13 42",
+      "horaires":"A ameliorer",
+      "fermetures":"Dimanche et Lundi",
+      "description":"<span>Le\u00a0<\/span><strong>Lorem Ipsum<\/strong><span>\u00a0est simplement du faux texte employ\u00e9 dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les ann\u00e9es 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour r\u00e9aliser un livre sp\u00e9cimen de polices de texte. Il n'a pas fait que survivre cinq si\u00e8cles, mais s'est aussi adapt\u00e9 \u00e0 la bureautique informatique, sans que son contenu n'en soit modifi\u00e9. Il a \u00e9t\u00e9 popularis\u00e9 dans les ann\u00e9es 1960 gr\u00e2ce \u00e0 la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus r\u00e9cemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.<\/span>",
+      "media":"HTTP:\/\/nag-lvpp-01.ig-1.net\/uploads\/media\/image\/0001\/01\/f7b355bf2fd8d98fa295662eced2345066e2b221.jpeg",
+      "version":1381300006
+   }
+}

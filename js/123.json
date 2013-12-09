@@ -1,0 +1,14 @@
+{
+
+    "name": "Oustad",
+    "firstname": "Adel",
+    "mail": "a.oustad@novediagroup.com",
+    "type": "Monsieur",
+    "products" :{
+        "sku" : ["M94419","M94421","M94420","M22407","M58186","M93731","M58186","M93731","M58186","M93731","M58186","M93731","M58186"]
+    },
+    "patrimoines" : {
+        "sku" : ["P1","P8","P4","P1","P8","P4","P1","P8","P4","P1","P8","P4"]
+    }
+
+}

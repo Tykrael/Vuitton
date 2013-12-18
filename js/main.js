@@ -144,6 +144,7 @@ var collecScreen={},
 							//1er objet video bonus
 							if( typeof(collecCustom.products) != 'undefined' ){
 								if( collecCustom.products.sku.length ){
+									prodToDisplay = _.sample(collecProd.products, 4);
 									//Quand on a la liste des produits clients on injecte dans la liste des 
 									//produits a afficher les items clients en replacement des items aléatoires
 									_.each(collecCustom.products.sku,function(item,key){
